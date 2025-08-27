@@ -100,10 +100,10 @@ GET /todos/delete/{id}
 ## 📸 Screenshots
 
 ### 🖥 Home Page
-![Login Page](login.png)
+![Login Page](Homepage.png)
 
 ### 🖥 Edit Page
-![Admin Dashboard](admin-dashboard.png)
+![Admin Dashboard](Editpage.png)
 
 ### 🖥 Postman CRUD Operation
-![Student Dashboard](student-dashboard.png)
+![Student Dashboard](Crud operation.png)
