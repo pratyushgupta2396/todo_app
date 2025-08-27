@@ -138,21 +138,25 @@ http://localhost:8080/todos
 ## Test APIs in Postman.
 ---
 
-## 🤝 Contributing
-Contributions are welcome!  
-If you’d like to improve this project, feel free to fork the repo and submit a pull request.  
+<h2 align="center">🤝 Contributing</h2>
+<p align="center">
+Contributions are welcome!<br>
+If you’d like to improve this project, feel free to fork the repo and submit a pull request.<br>
 Please make sure to follow proper commit messages and coding guidelines.
+</p>
 
-## 📜 License
-This project is licensed under the MIT License – see the [LICENSE](LICENSE) file for details.
 
-## 👨‍💻 Author
-**Pratyush Gupta**  
-- GitHub: [Pratyush Gupta](https://github.com/pratyushgupta2396)  
-- LinkedIn: [Pratyush Gupta](https://www.linkedin.com/in/pratyushgupta2396/)
+<h2 align="center">👨‍💻 Author</h2>
+<p align="center">
+<strong>Pratyush Gupta</strong><br>
+GitHub: <a href="https://github.com/pratyushgupta2396">Pratyush Gupta</a><br>
+LinkedIn: <a href="https://www.linkedin.com/in/pratyushgupta2396/">Pratyush Gupta</a>
+</p>
 
-## 💬 Support & Feedback
-For any issues, bugs, or feature requests, please open an [issue here](../../issues).
+<h2 align="center">💬 Support & Feedback</h2>
+<p align="center">
+For any issues, bugs, or feature requests, please open an <a href="../../issues">issue here</a>.
+</p>
 
-## 🙌 Acknowledgements
-Thanks for checking out this project! Give it a ⭐ if you found it helpful.
+<h2 align="center">🙌 Acknowledgements</h2>
+<p align="center">Thanks for checking out this project! Give it a ⭐ if you found it helpful.</p>
