@@ -106,4 +106,53 @@ GET /todos/delete/{id}
 ![Admin Dashboard](Editpage.png)
 
 ### 🖥 Postman CRUD Operation
-![Student Dashboard](Crud operation.png)
+![Student Dashboard](CrudOperation.png)
+
+---
+
+## How to Run
+
+## Clone the repository:
+```
+git clone https://github.com/yourusername/todo_app.git
+```
+
+## Setup PostgreSQL and update application.properties:
+```
+spring.datasource.url=jdbc:postgresql://localhost:5432/todo_db
+spring.datasource.username=yourusername
+spring.datasource.password=yourpassword
+spring.jpa.hibernate.ddl-auto=update
+```
+
+## Run the application:
+```
+mvn spring-boot:run
+```
+
+## Open in browser:
+```
+http://localhost:8080/todos
+```
+
+## Test APIs in Postman.
+---
+
+## 🤝 Contributing
+Contributions are welcome!  
+If you’d like to improve this project, feel free to fork the repo and submit a pull request.  
+Please make sure to follow proper commit messages and coding guidelines.
+
+## 📜 License
+This project is licensed under the MIT License – see the [LICENSE](LICENSE) file for details.
+
+## 👨‍💻 Author
+**Pratyush Gupta**  
+- GitHub: [Pratyush Gupta](https://github.com/pratyushgupta2396)  
+- LinkedIn: [Pratyush Gupta](https://www.linkedin.com/in/pratyushgupta2396/)
+
+## 💬 Support & Feedback
+For any issues, bugs, or feature requests, please open an [issue here](../../issues).
+
+## 🙌 Acknowledgements
+Thanks for checking out this project! Give it a ⭐ if you found it helpful.
